@@ -1,5 +1,5 @@
 # FastGPT
-*A FastAPI based version of GPT using asynchronous requests for improved performance
+*A FastAPI based version of GPT using asynchronous requests for improved performance*
 
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/concaption/FastGPT)
 
