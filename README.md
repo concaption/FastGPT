@@ -1,5 +1,7 @@
 # FastGPT
-*A FastAPI based version of GPT using asynchronous requests for improved performance*
+*A FastAPI based version of GPT using asynchronous requests for improved performance
+
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/concaption/FastGPT)
 
 FastGPT a high performance, customizable GPT chat application built with FastAPI and OpenAI's API. It implements several features essential to providing an excellent user experience, in addition to performance, and features a simple frontend UI built with HTML, CSS, and JavaScript
 ## Features
